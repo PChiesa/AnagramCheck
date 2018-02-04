@@ -1,0 +1,3 @@
+[submodule "WordCount"]
+	path = WordCount
+	url = https://github.com/PChiesa/WordCount.git
